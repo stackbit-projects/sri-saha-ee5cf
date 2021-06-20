@@ -33,7 +33,7 @@ sections:
           marketing activities like  SEO, SMM, EMAIL MARKETING.  No job is too
           big or small!
         actions:
-          - label: See Writing Samples
+          - label: 'See Sample '
             url: >-
               https://drive.google.com/drive/folders/1Bc9zLiY8FtWAYO922O1wtHfZ_uyjMrER?usp=sharing
             style: primary
