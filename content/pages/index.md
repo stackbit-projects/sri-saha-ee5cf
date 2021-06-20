@@ -60,10 +60,13 @@ sections:
         media_width: sixty
       - title: GRAPHICS DESIGN
         subtitle: 'BUSINESS CARD , ID CARD , LOGO , SOCIAL MEDIS POST & MANY MORE'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          ### Without graphics your social Media or website is nothing, Without
+          a business card and ID Card your business is nothing, So I can make
+          you complete.
+
+
+          ### Allow me to present you
         actions:
           - label: See Past Work
             url: /faq
