@@ -34,7 +34,8 @@ sections:
           big or small!
         actions:
           - label: See Writing Samples
-            url: /faq
+            url: >-
+              https://drive.google.com/drive/folders/1Bc9zLiY8FtWAYO922O1wtHfZ_uyjMrER?usp=sharing
             style: primary
             has_icon: true
             icon: arrow-right
