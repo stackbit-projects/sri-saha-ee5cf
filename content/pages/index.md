@@ -28,10 +28,10 @@ sections:
     features:
       - title: DIGITAL MARKETING
         subtitle: 'SEO , SOCIAL MEDIA , MARKETING'
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          ### I will generate traffic and lead through different digital
+          marketing activities like  SEO, SMM, EMAIL MARKETING.  No job is too
+          big or small!
         actions:
           - label: See Writing Samples
             url: /faq
