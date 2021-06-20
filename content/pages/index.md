@@ -27,7 +27,7 @@ sections:
     subtitle: What I do
     features:
       - title: DIGITAL MARKETING
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: 'SEO , SOCIAL MEDIA , MARKETING'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
