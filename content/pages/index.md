@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Sri. I help my clients succeed online.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I will handle your website design and SEO, social media accounts and
+      graphics design for you, at an affordable price.
     actions:
       - label: Contact Me
         url: /contact
