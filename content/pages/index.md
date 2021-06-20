@@ -43,7 +43,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Online Store Management
+      - title: WEB DEVELOPMENT
         subtitle: 'Product updates, inventory and pricing.'
         content: >-
           Managing an online business is a full-time job. I will make sure your
