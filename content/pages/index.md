@@ -69,7 +69,7 @@ sections:
           ### Allow me to present you
         actions:
           - label: See Past Work
-            url: /faq
+            url: 'https://www.behance.net/sriparnasaha1'
             style: primary
             has_icon: true
             icon: arrow-right
