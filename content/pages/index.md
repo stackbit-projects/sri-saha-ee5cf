@@ -49,7 +49,7 @@ sections:
           ### I will give a beautiful look to your website make it presentable
         actions:
           - label: View Sample
-            url: /about
+            url: 'https://github.com/sri1995'
             style: secondary
             has_icon: true
             icon: arrow-right
