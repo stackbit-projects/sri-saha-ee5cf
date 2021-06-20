@@ -85,8 +85,8 @@ sections:
       ## Let's talk
 
 
-      ### If you would like more information about my services and pricing,
-      please contact me using the form below.
+      ### If you would like more information about my services and offer, please
+      contact me using the form below.
     content_align: left
     form_position: right
     form_width: fifty
