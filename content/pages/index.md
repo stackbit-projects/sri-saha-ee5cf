@@ -36,7 +36,7 @@ sections:
           - label: 'See Sample '
             url: >-
               https://drive.google.com/drive/folders/1Bc9zLiY8FtWAYO922O1wtHfZ_uyjMrER?usp=sharing
-            style: primary
+            style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
