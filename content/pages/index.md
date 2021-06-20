@@ -48,7 +48,7 @@ sections:
         content: |
           ### I will give a beautiful look to your website make it presentable
         actions:
-          - label: Learn More
+          - label: View Sample
             url: /about
             style: secondary
             has_icon: true
